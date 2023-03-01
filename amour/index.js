@@ -26,10 +26,7 @@ function question(){
    }
 }
 
-function hello(){
-   alert("hello")
-}
 
-set(hello,1000);
+
 
  
