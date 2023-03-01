@@ -9,7 +9,7 @@ for (let i = 0; i < images.length; i++) {
 for (let i = 0;i< pics.length;i++){
   const randomNum= Math.floor(Math.random()*7+1)
    const element = pics[randomNum];
-   document.body.style.backgroundImage = `url(./images/${element}.jpg)`
+   document.body.style.backgroundImage = `url(amour/images/${element}.jpg)`
 }  
 
       
